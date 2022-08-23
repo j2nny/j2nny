@@ -32,7 +32,7 @@ Hi,I'm Jinny🙌
 -----------------------------------------------------------
 
 📚📙📖📒
-<a href="../../../../../www.naver.com">![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)</a>
+<a href="../../../../../../www.naver.com">![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)</a>
 
 
 <!--[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=j2nny&count_private=true)](https://github.com/anuraghazra/github-readme-stats)<br/>--!>
