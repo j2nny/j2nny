@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 -->
 
 Hi,I'm Jinny🙌
+-----------------------------------------------------------
 
 ⛏Skills <br/>
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)<br/>
@@ -28,8 +29,10 @@ Hi,I'm Jinny🙌
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)<br/><br/>
+-----------------------------------------------------------
 
-<a href="www.naver.com">![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)</a>
+📚📙📖📒
+<a href="../../../www.naver.com">![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)</a>
 
 
 <!--[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=j2nny&count_private=true)](https://github.com/anuraghazra/github-readme-stats)<br/>--!>
