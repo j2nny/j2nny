@@ -28,5 +28,7 @@ Here are some ideas to get you started:
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=flat&logo=android-studio&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat&logo=visual-studio-code&logoColor=white)<br/><br/>
 
+노션도 놀러오세요🙌 https://sprout-library-c60.notion.site/Profile-e80ecbc1133342b8b3bbdd5b1e349142
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=j2nny&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=j2nny&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
