@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=flat&logo=android-studio&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat&logo=visual-studio-code&logoColor=white)<br/><br/>
 
-<a href="https://sprout-library-c60.notion.site/Profile-e80ecbc1133342b8b3bbdd5b1e349142">
+<a href="https://j2nny.notion.site/j2nny">
   <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white"/>
 </a>도 놀러오세요👋<br/><br/>
 
