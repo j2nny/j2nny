@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
 ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=flat&logo=jquery&logoColor=white)<br/>
-![vuedotjs](https://img.shields.io/badge/vuedotjs-%#4FC08D.svg?style=flat&logo=vuedotjs&logoColor=white)<br/>
+![vue.js](https://img.shields.io/badge/vue.js-%#4FC08D.svg?style=flat&logo=vuedotjs&logoColor=white)<br/>
 💾![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white)<br/>
